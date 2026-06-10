@@ -196,6 +196,7 @@ Includes:
 
 - Meta and Google campaign buildout
 - ad creative development
+- attribution / ads tracking setup if tracking is not already configured correctly
 - creative testing direction
 - budget allocation recommendations
 - monthly reporting
