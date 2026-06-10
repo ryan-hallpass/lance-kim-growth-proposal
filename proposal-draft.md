@@ -4,11 +4,11 @@ Prepared by HallPass Digital / Anecdotal
 Prepared for Lance + Kim  
 Status: internal draft for Ryan review before client send
 
-> Brand spelling confirmed by Ryan: use **Nikko Blu** in all client-facing materials.
+> Brand spelling confirmed by Ryan: use **NIKKO BLUE** in all client-facing materials.
 
 ## Proposal angle
 
-The right move is a focused growth audit and playbook for Nikko Blu:
+The right move is a focused growth audit and playbook for NIKKO BLUE:
 
 - audit the current digital presence
 - clarify what is working, what is confusing, and what is missing
@@ -20,28 +20,28 @@ HallPass/Anecdotal can provide direction without becoming the day-to-day posting
 
 ## What we heard
 
-From the existing Lance/Kim/Nikko Blu work and Ryan/Albert text exchange:
+From the existing Lance/Kim/NIKKO BLUE work and Ryan/Albert text exchange:
 
-- Nikko Blu has internal capacity and past marketing activity; the team needs clarity on what is actually worth prioritizing and why.
+- NIKKO BLUE has internal capacity and past marketing activity; the team needs clarity on what is actually worth prioritizing and why.
 - Existing website/tracking setup has gaps:
   - Google Analytics was not actively receiving website data during the setup call.
   - Shopify analytics and Google Ads data exist, but they are not a complete measurement foundation by themselves.
   - Google Search Console remains an open dependency for search visibility.
   - Local SEO/NAP consistency has already mattered because Google verification has been sensitive.
-- The broader opportunity is not only Nikko Blu. Lance wants the marketing foundation across his related businesses to become stronger over time.
+- The broader opportunity includes Tipsy Gypsy and the Whistle Stop, but the paid audit scope should stay focused on NIKKO BLUE so Ryan is not re-selling an audit of marketing work already underway.
 - The BGC model is the right pattern: audit → strategy → playbook. For this client, expand the lens to include existing paid ads, website performance, and measurement.
 
 ## Recommended positioning
 
 “We’ll show your team exactly what to fix, what to keep doing, what to stop doing, and where paid ads could perform better.”
 
-This keeps the engagement strategic, useful, and bounded while recognizing that Nikko Blu has already been running paid ads and does not need a generic “ads readiness” conversation.
+This keeps the engagement strategic, useful, and bounded while recognizing that NIKKO BLUE has already been running paid ads and does not need a generic “ads readiness” conversation.
 
 ## Proposed engagement
 
 # Digital Growth Audit + Playbook
 
-A short, focused engagement to evaluate Nikko Blu’s current social, website, local search, analytics, and paid ads performance — then turn the findings into a practical playbook Kim’s team can use.
+A short, focused engagement to evaluate NIKKO BLUE’s current social, website, local search, analytics, and paid ads performance — then turn the findings into a practical playbook Kim’s team can use.
 
 ## Core deliverables
 
@@ -55,7 +55,7 @@ Review current social channels with emphasis on:
 - use of Reels/video vs static posts
 - posting patterns and missed opportunities
 - visual consistency and brand trust
-- local retail/boutique storytelling opportunities
+- local NIKKO BLUE storytelling opportunities
 - customer/community moments that should become content
 - recommendations for what Kim’s team should keep, stop, and test
 
@@ -79,7 +79,7 @@ Output should answer: “What have they already been spending on, what appears t
 
 ### 3. Website + conversion audit
 
-Review the website as the place social and paid traffic eventually lands:
+Review the NIKKO BLUE website as the place social and paid traffic eventually lands:
 
 - homepage clarity
 - product/category path
@@ -153,7 +153,7 @@ Potential scope:
 
 Boundary: paid ads management does not include day-to-day content calendar ownership.
 
-Pricing direction: paid ads management should be priced at a **30% management premium over monthly ad spend**. Confirm whether to include a monthly minimum before client send.
+Pricing direction: paid ads management should be priced at **30% of monthly ad spend**. Confirm whether to include a monthly minimum before client send.
 
 ## Suggested client-facing package options
 
@@ -172,7 +172,7 @@ Includes:
 - practical growth playbook
 - one walkthrough call
 
-Suggested price placeholder: `$3,500–$5,000 one-time`
+Client-facing site currently uses: `$5,500 one-time`
 
 ### Option B — Audit + Playbook + 30-Day Launch Support
 
@@ -186,7 +186,7 @@ Includes everything in Option A, plus:
 - first ads test structure
 - one follow-up check-in after implementation begins
 
-Suggested price placeholder: `$5,500–$7,500 one-time`
+Client-facing site currently uses: `$6,700 one-time`
 
 ### Optional monthly — Paid Ads Management
 
@@ -223,7 +223,7 @@ Suggested price placeholder: `30% of monthly ad spend`, ad spend billed separate
 
 ## Recommended next step email / text
 
-Lance + Kim — based on what we’ve seen so far, I think the right next step is a focused audit and growth playbook for Nikko Blu.
+Lance + Kim — based on what we’ve seen so far, I think the right next step is a focused audit and growth playbook for NIKKO BLUE.
 
 We would review social, existing paid ads, website, tracking, and local visibility. The goal would be to show what is working, what needs cleanup, what paid campaigns should be adjusted, and what your team should focus on first.
 
