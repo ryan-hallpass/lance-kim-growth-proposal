@@ -188,18 +188,19 @@ Includes everything in Option A, plus:
 
 Client-facing site currently uses: `$6,700 one-time`
 
-### Optional monthly — Paid Ads Management
+### Optional add-on — Paid Media Implementation + Management
 
-Best if they want HallPass/Anecdotal/Albert to manage paid traffic after the audit.
+Best if they want HallPass to turn the audit recommendations into active paid media execution across Meta and Google.
 
 Includes:
 
-- campaign management
-- performance monitoring
-- monthly optimization
-- short monthly reporting note
+- Meta and Google campaign buildout
+- creative testing direction
+- budget allocation recommendations
+- monthly reporting
+- ongoing monthly optimization
 
-Suggested price placeholder: `30% of monthly ad spend`, ad spend billed separately. Confirm whether there should be a minimum monthly management fee.
+Pricing: `ad spend + 30%`. Ad spend is billed separately. Management is priced at 30% of monthly ad spend. Confirm whether there should be a minimum monthly management fee.
 
 ## Recommended timeline
 
