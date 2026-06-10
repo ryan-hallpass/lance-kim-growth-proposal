@@ -70,7 +70,7 @@ Review existing paid ads activity and identify what should be kept, fixed, pause
 - Meta ads account/page activity, if applicable
 - campaign objective recommendations by channel
 - audience and geography opportunities
-- creative/message gaps
+- creative performance review: identify strongest hooks, formats, product categories, offers, visuals, and content themes based on available ad, social, and sales data
 - landing page/shop path concerns
 - tracking gaps that limit attribution or optimization
 - suggested campaign cleanup and next-test structure
@@ -176,7 +176,7 @@ Client-facing site currently uses: `$5,500 one-time`
 
 ### Option B — Audit + Playbook + 30-Day Launch Support
 
-Best if they want help getting the foundation cleaned up after the audit.
+Best if they want a clear bridge from audit into paid media execution, tracking cleanup, and the first 90 days of growth priorities.
 
 Includes everything in Option A, plus:
 
