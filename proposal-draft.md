@@ -195,6 +195,7 @@ Best if they want HallPass to turn the audit recommendations into active paid me
 Includes:
 
 - Meta and Google campaign buildout
+- ad creative development
 - creative testing direction
 - budget allocation recommendations
 - monthly reporting
